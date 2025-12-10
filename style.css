@@ -1,0 +1,17 @@
+
+.open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+ .navbar {
+background: linear-gradient(135deg, #c2b280, #e6d7b9 100%);
+ }
